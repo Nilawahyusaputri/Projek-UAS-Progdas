@@ -1,0 +1,4 @@
+3404011205900001|Budi Santoso|Jl. Kaliurang KM 5|32|Demam Tinggi,Mual|Poli Umum|50000|Paracetamol,Vitamin C|25000|75000
+3471125010950002|Siti Aminah|Jl. Gejayan No 12|28|Sakit Gigi,Gusi Bengkak|Poli Gigi|100000|Asam Mefenamat,Antibiotik|45000|145000
+3301012008880003|Andi Wijaya|Jl. Magelang KM 10|45|Batuk Kering,Sesak|Poli Umum|50000|Obat Batuk Sirup|30000|80000
+3402156012150004|Citra Kirana|Jl. Solo KM 9|5|Demam,Ruam Merah|Poli Anak|75000|Salep Kulit,Puyer Demam|55000|130000
